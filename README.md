@@ -30,15 +30,15 @@ In production
 
 ## Features
 
-In profuction
+In production
 
 ## Installation / Instructions
 
-In profuction
+In production
 
 ## API Reference
 
-In profuction
+In production
 
 ## Tests
 
@@ -46,7 +46,7 @@ In production
 
 ## Demo
 
-In profuction
+In production
 
 ## Credits
 
